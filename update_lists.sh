@@ -8,4 +8,4 @@ tar -zxvf tmp/porn.tar.gz --strip-components 1 adult/domains
 mv domains "lists/${NEW}/porn.list"
 rm -r tmp
 rm -r lists/current
-ln -s "${NEW}" lists/current
+cp -r "lists/${NEW}" lists/current
