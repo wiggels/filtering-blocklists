@@ -1,3 +1,4 @@
+#!/bin/bash
 rm -r lists/current
 mkdir -p lists/current
 mkdir -p tmp
