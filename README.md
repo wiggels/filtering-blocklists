@@ -9,7 +9,7 @@ This is a project that includes both a repository and bash script to maintain bl
 `https://media.githubusercontent.com/media/wiggels/filtering-blocklists/master/lists/current/proxy.list`
 `https://media.githubusercontent.com/media/wiggels/filtering-blocklists/master/lists/current/violence.list`
 `https://media.githubusercontent.com/media/wiggels/filtering-blocklists/master/lists/current/sexual_education.list`
-`https://raw.githubusercontent.com/wiggels/filtering-blocklists/master/lists/static/games.list`
+`https://media.githubusercontent.com/media/wiggels/filtering-blocklists/master/lists/static/games.list`
 
 ## License
 
